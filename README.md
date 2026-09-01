@@ -1,6 +1,6 @@
 # Hi, I'm Aidan Cheiban
 
-Computer Science and Applied Mathematics & Statistics student at Stony Brook University.
+Computer Science and Applied Mathematics & Statistics 3rd-year student at Stony Brook University.
 
 I am interested in building practical technology that improves workflows, makes information easier to access, and turns data into useful decisions. My work spans software automation, web development, data analysis, and systems programming.
 
@@ -30,7 +30,7 @@ Collaborative public-facing website for Columbia University's Secondary School F
 
 ### [Personal Profile Website](https://github.com/aidancheiban/profile)
 
-Personal website repository for sharing my background, work, and technical projects.
+Personal website repository for sharing my background, work, and technical projects. This is a work in progress.
 
 **Tech:** HTML, CSS, JavaScript
 
