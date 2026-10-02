@@ -96,7 +96,7 @@ Browser-based website created to help people begin learning Java concepts.
 
 ### [More Minerals Minecraft Mod](https://github.com/aidancheiban/moreminerals-minecraftmod)
 
-## [Blog Documenting the Process](https://github.com/aidancheiban/moreminerals-blog)
+##### [Blog Documenting the Process](https://github.com/aidancheiban/moreminerals-blog)
 
 Java-based Minecraft mod created as an independent learning project exploring Java, Gradle, and game-mod development.
 
