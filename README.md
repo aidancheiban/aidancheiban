@@ -17,7 +17,7 @@ I am interested in building practical technology that improves workflows, makes 
 
 ### [ChatNYC - DivHacks at Columbia University](https://github.com/MohamedYoussef06/ChatNYC)
 
-[Viewe the full website](https://chatnyc.tech)
+[View the full website](https://chatnyc.tech)
 
 Full-stack NYC travel assistant developed during DivHacks at Columbia University.
 
