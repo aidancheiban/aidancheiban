@@ -40,7 +40,7 @@ Inspired by collectible card games and the excitement of spotting rare trains, T
 
 ### [ChatNYC - DivHacks at Columbia University](https://github.com/MohamedYoussef06/ChatNYC)
 
-[View the full website](https://chatnyc.tech)
+[View the full website](https://chatnyc.tech) (no longer online)
 
 Full-stack NYC travel assistant developed during DivHacks at Columbia University.
 
